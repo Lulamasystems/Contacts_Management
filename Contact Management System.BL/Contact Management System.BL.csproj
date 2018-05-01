@@ -40,11 +40,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Concrete\Contacts.cs" />
     <Compile Include="Interfaces\IContacts.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Concrete\" />
+    <ProjectReference Include="..\Contact Management System.DAL\Contact Management System.DAL.csproj">
+      <Project>{2089ff2e-423c-480a-816a-c47533110040}</Project>
+      <Name>Contact Management System.DAL</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -28,6 +28,5 @@ C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\bi
 C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\bin\Debug\EntityFramework.xml
 C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\obj\Debug\Contact Management System.DAL.csprojResolveAssemblyReference.cache
 C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\obj\Debug\Contact Management System.DAL.dll
 C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\obj\Debug\Contact Management System.DAL.pdb

@@ -96,6 +96,8 @@
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\ContactsController.cs" />
+    <Compile Include="Base.cs" />
+    <Compile Include="Contact.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -121,6 +123,7 @@
     </ProjectReference>
     <ProjectReference Include="..\Contact Management System.DAL\Contact Management System.DAL.csproj">
       <Project>{2089ff2e-423c-480a-816a-c47533110040}</Project>
+      <Project>{2089FF2E-423C-480A-816A-C47533110040}</Project>
       <Name>Contact Management System.DAL</Name>
     </ProjectReference>
   </ItemGroup>

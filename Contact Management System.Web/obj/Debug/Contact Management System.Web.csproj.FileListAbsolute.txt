@@ -61,6 +61,5 @@ C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bi
 C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\System.Web.Webpages.Razor.xml
 C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\System.Web.Helpers.xml
 C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\System.Web.Mvc.xml
-C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\obj\Debug\Contact Management System.Web.csprojResolveAssemblyReference.cache
 C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\obj\Debug\Contact Management System.Web.dll
 C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\obj\Debug\Contact Management System.Web.pdb

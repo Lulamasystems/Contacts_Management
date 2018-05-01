@@ -19,3 +19,4 @@ c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management S
 c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\obj\Debug\Contact Management System.Web.csproj.CoreCompileInputs.cache
 c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\obj\Debug\Contact Management System.Web.dll
 c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\obj\Debug\Contact Management System.Web.pdb
+C:\Users\Smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\obj\Debug\Contact Management System.Web.csprojResolveAssemblyReference.cache

@@ -4,3 +4,8 @@ c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management S
 c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.DAL\obj\Debug\Contact Management System.DAL.csproj.CoreCompileInputs.cache
 c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.DAL\obj\Debug\Contact Management System.DAL.dll
 c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.DAL\obj\Debug\Contact Management System.DAL.pdb
+C:\Users\Smarimi\Source\Repos\Contact Management System.Web\Contact Management System.DAL\bin\Debug\Contact Management System.DAL.dll.config
+C:\Users\Smarimi\Source\Repos\Contact Management System.Web\Contact Management System.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Smarimi\Source\Repos\Contact Management System.Web\Contact Management System.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Smarimi\Source\Repos\Contact Management System.Web\Contact Management System.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Smarimi\Source\Repos\Contact Management System.Web\Contact Management System.DAL\bin\Debug\EntityFramework.SqlServer.xml

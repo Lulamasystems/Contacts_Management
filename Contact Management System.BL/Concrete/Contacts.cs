@@ -1,6 +1,17 @@
-﻿namespace Contact_Management_System.BL.Concrete
+﻿using Contact_Management_System.BL.Interfaces;
+using Contact_Management_System.DAL.Models;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace Contact_Management_System.BL.Concrete
 {
-    public class Contacts
+    public class Contacts : Base, IContacts
     {
+
+        //Returns all Contacts
+        public List<Contact> GetAllContacts()
+        {
+            return db.Contacts.ToList();
+        }
     }
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.API\bin\Contact Management System.API.dll.config
 c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.API\bin\Contact Management System.API.dll
 c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.API\bin\Contact Management System.API.pdb
@@ -41,3 +42,29 @@ C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.API\obj\De
 C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.API\obj\Debug\Contact Management System.API.csproj.CopyComplete
 C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.API\obj\Debug\Contact Management System.API.dll
 C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.API\obj\Debug\Contact Management System.API.pdb
+=======
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\Contact Management System.API.dll.config
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\Contact Management System.API.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\Contact Management System.API.pdb
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\Contact Management System.BL.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\Contact Management System.DAL.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\EntityFramework.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\Newtonsoft.Json.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\System.Web.Http.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\Contact Management System.BL.pdb
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\Contact Management System.DAL.pdb
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\EntityFramework.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\Newtonsoft.Json.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\System.Web.Http.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\obj\Debug\Contact Management System.API.csprojResolveAssemblyReference.cache
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\obj\Debug\Contact Management System.API.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.API\obj\Debug\Contact Management System.API.pdb
+>>>>>>> 3058eae0dd454cdef60c7b166c5e9a17ae86ff05

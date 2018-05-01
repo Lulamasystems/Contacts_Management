@@ -20,3 +20,12 @@ C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.DAL\obj\De
 C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.DAL\obj\Debug\Contact Management System.DAL.csproj.CopyComplete
 C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.DAL\obj\Debug\Contact Management System.DAL.dll
 C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.DAL\obj\Debug\Contact Management System.DAL.pdb
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\bin\Debug\Contact Management System.DAL.dll.config
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\bin\Debug\Contact Management System.DAL.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\bin\Debug\Contact Management System.DAL.pdb
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\obj\Debug\Contact Management System.DAL.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.DAL\obj\Debug\Contact Management System.DAL.pdb

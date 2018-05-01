@@ -1,8 +1,9 @@
-﻿using Contact_Management_System.BL.Concrete;
-using Contact_Management_System.DAL.DTOs;
-using System.Collections;
-
+﻿using Contact_Management_System.DAL.DTOs;
+using Newtonsoft.Json.Linq;
+using System.Net.Http;
+using System.Text;
 using System.Web.Http;
+
 
 namespace Contact_Management_System.API.Controllers
 {
@@ -15,22 +16,48 @@ namespace Contact_Management_System.API.Controllers
 
         [Route("GetContacts")]
         [HttpGet]
-        public IEnumerable GetContacts()
+        public HttpResponseMessage GetContacts()
         {
 
-            var contactList = new Contacts();
-            var asaas = contactList.GetAllContacts();
-            return asaas;
+
+            var data = con.GetAllContacts();
+            return new HttpResponseMessage()
+            {
+                Content = new StringContent(JArray.FromObject(data).ToString(), Encoding.UTF8, "application/json")
+            };
+
+
         }
 
+
+
+
+        [Route("AddContact")]
         [HttpPost]
 
         // POST: api/User
         public IHttpActionResult AddContact(ContactsDTO contactDTO)
         {
             con.AddContact(contactDTO);
-            return Ok();
+            return Ok("Successful");
         }
+
+
+        [Route("DeleteContact")]
+        [HttpPost]
+
+        // POST: api/User
+        public IHttpActionResult Delete(int id)
+        {
+            con.DeleteContact(id);
+            return Ok("Successfully deleted");
+        }
+
+
+
+
+
+
     }
-    }
+}
 

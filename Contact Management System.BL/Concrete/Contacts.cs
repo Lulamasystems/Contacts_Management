@@ -8,15 +8,15 @@ using System.Linq;
 
 namespace Contact_Management_System.BL.Concrete
 {
-    public class Contacts : Base,IContacts
+    public class Contacts : Base, IContacts
     {
         //public void CreateUser(UserProfileDTO UserProfile)
         public void AddContact(ContactsDTO contact)
         {
-            db.Contacts.Add(new ContactDTO
+            db.Contacts.Add(new Contact
             {
 
-               // Contacts =ContactDTO.UserProfileDTOId,
+                // Contacts =ContactDTO.UserProfileDTOId,
                 Title = contact.Title,
                 CellNumber = contact.CellNumber,
                 Email = contact.Email,
@@ -32,26 +32,16 @@ namespace Contact_Management_System.BL.Concrete
 
         public void DeleteContact(int ContactID)
         {
-            throw new System.NotImplementedException();
+
+
+            var contact = db.Contacts.Find(ContactID);
+
+            db.Entry(contact).State = System.Data.Entity.EntityState.Deleted;
+            db.SaveChanges();
         }
 
-        // public void DeleteContact(int ContactID)
-        //   
 
-        //{
-        //        //var assetToDelete = db.AssetsTables.Find(asset.ID);
-        //        db.Contacts.Remove(Contacts );
-        //        db.SaveChanges();
-
-        //}
-
-        //public void DeleteContact(int ID)
-        //{
-        //    throw new System.NotImplementedException();
-        //}
-
-        //Returns all Contacts
-        public List<ContactDTO> GetAllContacts()
+        public List<Contact> GetAllContacts()
         {
             return db.Contacts.ToList();
         }

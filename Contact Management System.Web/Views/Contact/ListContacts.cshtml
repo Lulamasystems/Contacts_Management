@@ -1,39 +1,92 @@
-﻿<script>
+﻿
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
 
-         $(document).ready(function () {
+<div class="container">
+    <h2>Contact List</h2>
+    
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
 
-             $("#Save").click(function () {
+                <th>
+                    Title
+                </th>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Surname
+                </th>
+                <th>
+                    Email
+                </th>
+                <th>
+                    CellNumber
+                </th>
+                <th>
+                    Telephone
+                </th>
+
+            </tr>
+        </thead>
+        <tbody class="tbody"></tbody>
+    </table>
+</div>
+
+<script>
+    $(document).ready(function () {
+        loadData();
+    });
+
+    //Load Data function
+    function loadData() {
+        $.ajax({
+            url: "/Contact/List",
+            type: "GET",
+            contentType: "application/json;charset=utf-8",
+            dataType: "json",
+            success: function (result) {
+                var html = '';
+                $.each(result, function (key, item) {
+                    html += '<tr>';
+                    html += '<td>' + item.Title + '</td>';
+                    html += '<td>' + item.Name + '</td>';
+                    html += '<td>' + item.Surname + '</td>';
+                    html += '<td>' + item.Email + '</td>';
+                    html += '<td>' + item.CellNumber + '</td>';
+                    html += '<td>' + item.Telephone + '</td>';
+
+                    html += '<td><a href="#" onclick="return getbyID(' + item.ContactID + ')">Edit</a> | <a href="#" onclick="Delete(' + item.ContactID + ')">Delete</a></td>';
+                    html += '</tr>';
+                });
+                $('.tbody').html(html);
+            },
+            error: function (errormessage) {
+                alert(errormessage.responseText);
+            }
+        });
+    }
 
 
 
-                 $.ajax({
-
-                     url: 'http://http://localhost:61964/api/',
-
-                     type: 'GET',
-
-                     dataType: 'json',
-
-                     success: function (data, textStatus, xhr) {
-
-                         console.log(data);
-
-                     },
-
-                     error: function (xhr, textStatus, errorThrown) {
-
-                         console.log('Error in Operation');
-
-                     }
-
-                 });
+    function Delete(id) {
+       
 
 
+        $.ajax({
+            url: "/Contact/Delete/" + id,
+            type: "POST", // <- Change here
+            contentType: "application/json",
+            success: function () {
+                bootbox.alert("Proposal deleted successfully.");
+                ReloadGrid();
+            },
+            error: function () {
+            }
+        });
 
+    }
 
-
-             });
-
-         });
 
 </script>

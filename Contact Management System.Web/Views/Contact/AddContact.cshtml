@@ -1,111 +1,55 @@
 ﻿
 
 
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+
+<form id="formContact">
+
+    Title :- <input type="text" name="Title" id="Title" />
+    Name :- <input type="text" name="Name" id="Name" />
+
+    Surname :- <input type="text" name="Surname" id="Surname" />
+    CellNumber :- <input type="text" name="CellNumber" id="CellNumber" />
+
+    Telephone:- <input type="text" name="Telephone" id="Telephone" />
+
+    Email:- <input type="text" name="Email" id="email" />
+
+    <input type="button" id="btnSubmit" value="Submit" />
+
+
+
+</form>
 
 
 
 
-<script src="~/Scripts/jquery-1.10.2.js">
+
+<script>
 
 
 
+    
 
+    $("#btnSubmit").click(function () {
 
-    $("#Save").click(function () {
-
-
-
-        var _data = $('#form1').serialize();
-
-        $.post("http://localhost:61964/API/Contact/AddContact", _data)
-
+        var _data = $('#formContact').serialize();
+        $.post("http://localhost:61964/api/Contacts/AddContact", _data)
             .done(function (response) {
 
-                alert(response);
+                // alert(response);
+                alert("Success")
 
-               
-
+                console.log(response);
             }).error(function (a, b, c) {
-
                 alert(b.responseText);
-
             });
-
     });
 
 
-
-         //$(document).ready(function () {
-
-         //    $("#Save").click(function () {
-
-         //        var contacts = new Object();
-
-         //        contacts.Title = $('#Title').val();
-         //        contacts.Name = $('#Name').val();
-         //        contacts.Surname = $('#Surname').val();
-         //        contacts.CellNumber = $('#CellNumber').val();
-         //        contacts.Telephone = $('#Telephone').val();
-         //        contacts.Email = $('#Email').val();
-
-
-
-
-         //        $.ajax({
-
-         //            url: 'http://localhost:3413/api/person',
-
-         //            type: 'POST',
-
-         //            dataType: 'json',
-
-         //            data: contacts,
-
-         //            success: function (data, textStatus, xhr) {
-
-         //                arlet("contact saved ");
-
-
-         //            },
-
-         //            error: function (xhr, textStatus, errorThrown) {
-
-         //                console.log('Error in Operation');
-
-         //            }
-
-         //        });
-
-
-
-
-
-         //    });
-
-         //});
-
+    
 </script>
 
-
-
-
-    <form id="form1">
-
-        Title :- <input type="text" name="Title" id="Title" />
-        Name :- <input type="text" name="Name" id="Name" />
-
-        Surname :- <input type="text" name="Surname" id="Surname" />
-        CellNumber :- <input type="text" name="CellNumber" id="CellNumber" />
-
-        Telephone:- <input type="text" name="Telephone" id="Telephone" />
-
-        Email:- <input type="text" name="Email" id="email" />
-
-        <input type="button" id="Save" value="Save Data" />
-
-
-
-    </form>
 
 
 

@@ -26,6 +26,6 @@ namespace Contact_Management_System.DAL.Models
         }
     
         public virtual DbSet<Communication_History> Communication_History { get; set; }
-        public virtual DbSet<Contact> Contacts { get; set; }
+        public virtual DbSet<ContactDTO> Contacts { get; set; }
     }
 }

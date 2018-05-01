@@ -7,7 +7,10 @@ namespace Contact_Management_System.BL.Interfaces
     public interface IContacts
     {
         void AddContact (ContactsDTO contactsDTO);
-        List<Contact> GetAllContacts();
+        List<ContactDTO> GetAllContacts();
+        void DeleteContact(int ContactID);
+        void UpdateContact(int ContactID);
+
 
     }
 }

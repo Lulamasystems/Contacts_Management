@@ -13,7 +13,7 @@ namespace Contact_Management_System.BL.Concrete
         //public void CreateUser(UserProfileDTO UserProfile)
         public void AddContact(ContactsDTO contact)
         {
-            db.Contacts.Add(new Contact
+            db.Contacts.Add(new ContactDTO
             {
 
                // Contacts =ContactDTO.UserProfileDTOId,
@@ -30,11 +30,35 @@ namespace Contact_Management_System.BL.Concrete
 
         }
 
+        public void DeleteContact(int ContactID)
+        {
+            throw new System.NotImplementedException();
+        }
+
+        // public void DeleteContact(int ContactID)
+        //   
+
+        //{
+        //        //var assetToDelete = db.AssetsTables.Find(asset.ID);
+        //        db.Contacts.Remove(Contacts );
+        //        db.SaveChanges();
+
+        //}
+
+        //public void DeleteContact(int ID)
+        //{
+        //    throw new System.NotImplementedException();
+        //}
+
         //Returns all Contacts
-        public List<Contact> GetAllContacts()
+        public List<ContactDTO> GetAllContacts()
         {
             return db.Contacts.ToList();
         }
+
+        public void UpdateContact(int ID)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
-

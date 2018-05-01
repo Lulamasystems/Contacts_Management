@@ -33,8 +33,7 @@ namespace Contact_Management_System.API
         public void Post([FromBody]string value)
         {
         }
-
-
+        
 
         [HttpPost]
  
@@ -46,9 +45,7 @@ namespace Contact_Management_System.API
         }
 
 
-
-
-
+        
 
         // PUT api/<controller>/5
         public void Put(int id, [FromBody]string value)

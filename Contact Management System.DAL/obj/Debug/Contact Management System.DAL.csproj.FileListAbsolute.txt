@@ -16,7 +16,6 @@ C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.DAL\bin\De
 C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.DAL\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.DAL\bin\Debug\EntityFramework.xml
 C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.DAL\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.DAL\obj\Debug\Contact Management System.DAL.csprojResolveAssemblyReference.cache
 C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.DAL\obj\Debug\Contact Management System.DAL.csproj.CoreCompileInputs.cache
 C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.DAL\obj\Debug\Contact Management System.DAL.csproj.CopyComplete
 C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.DAL\obj\Debug\Contact Management System.DAL.dll

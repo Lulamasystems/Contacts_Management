@@ -86,6 +86,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Base.cs" />
+    <Compile Include="Contact.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -104,6 +106,16 @@
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Contact Management System.BL\Contact Management System.BL.csproj">
+      <Project>{57493fa4-f72c-49ac-94ad-567d45e1e41b}</Project>
+      <Name>Contact Management System.BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Contact Management System.DAL\Contact Management System.DAL.csproj">
+      <Project>{2089FF2E-423C-480A-816A-C47533110040}</Project>
+      <Name>Contact Management System.DAL</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

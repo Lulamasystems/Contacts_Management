@@ -50,6 +50,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DTOs\ContactsDTO.cs" />
     <Compile Include="Models\Communication_History.cs">
       <DependentUpon>Contacts_Management_Model.tt</DependentUpon>
     </Compile>

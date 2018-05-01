@@ -1,0 +1,22 @@
+﻿body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.btns {
+    background-color: #666666;
+    border: solid 2px #B60000;
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+    height: 50px;
+    width: 40%;
+}
+
+.btns:hover {
+    background-color: lightgray;
+    color: #B60000;
+}

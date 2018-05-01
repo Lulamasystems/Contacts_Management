@@ -1,0 +1,6 @@
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.BL\bin\Debug\Contact Management System.BL.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.BL\bin\Debug\Contact Management System.BL.pdb
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.BL\obj\Debug\Contact Management System.BL.csprojResolveAssemblyReference.cache
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.BL\obj\Debug\Contact Management System.BL.csproj.CoreCompileInputs.cache
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.BL\obj\Debug\Contact Management System.BL.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.BL\obj\Debug\Contact Management System.BL.pdb

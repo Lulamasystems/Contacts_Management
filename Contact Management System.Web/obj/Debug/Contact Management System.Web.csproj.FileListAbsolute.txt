@@ -1,0 +1,21 @@
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\Contact Management System.Web.dll.config
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\Contact Management System.Web.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\Contact Management System.Web.pdb
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\System.Web.Helpers.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\System.Web.Mvc.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\System.Web.Razor.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\System.Web.Webpages.Deployment.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\System.Web.Webpages.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\System.Web.Webpages.Razor.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\System.Web.Razor.xml
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\System.Web.Webpages.xml
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\System.Web.Webpages.Deployment.xml
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\System.Web.Webpages.Razor.xml
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\System.Web.Helpers.xml
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\bin\System.Web.Mvc.xml
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\obj\Debug\Contact Management System.Web.csproj.CoreCompileInputs.cache
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\obj\Debug\Contact Management System.Web.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Web\obj\Debug\Contact Management System.Web.pdb

@@ -1,0 +1,27 @@
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\Contact Management System.Tests.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\Contact Management System.Tests.pdb
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\Contact Management System.Web.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\Contact Management System.Web.pdb
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\Contact Management System.Web.dll.config
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\obj\Debug\Contact Management System.Tests.csprojResolveAssemblyReference.cache
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\obj\Debug\Contact Management System.Tests.csproj.CoreCompileInputs.cache
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\obj\Debug\Contact Management System.Tests.dll
+c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\obj\Debug\Contact Management System.Tests.pdb

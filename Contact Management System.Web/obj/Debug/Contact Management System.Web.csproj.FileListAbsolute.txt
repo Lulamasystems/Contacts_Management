@@ -43,3 +43,24 @@ C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Web\obj\De
 C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Web\obj\Debug\Contact Management System.Web.csproj.CopyComplete
 C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Web\obj\Debug\Contact Management System.Web.dll
 C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Web\obj\Debug\Contact Management System.Web.pdb
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\Contact Management System.Web.dll.config
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\Contact Management System.Web.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\Contact Management System.Web.pdb
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\System.Web.Helpers.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\System.Web.Mvc.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\System.Web.Razor.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\System.Web.Webpages.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\System.Web.Razor.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\System.Web.Webpages.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\System.Web.Helpers.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\bin\System.Web.Mvc.xml
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\obj\Debug\Contact Management System.Web.csprojResolveAssemblyReference.cache
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\obj\Debug\Contact Management System.Web.dll
+C:\Users\Smarimi\Music\ACME\Contacts_Management\Contact Management System.Web\obj\Debug\Contact Management System.Web.pdb

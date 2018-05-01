@@ -9,5 +9,10 @@ namespace Contact_Management_System.Web.Controllers
         {
             return View();
         }
+
+        public ActionResult ListContacts()
+        {
+            return View();
+        }
     }
 }

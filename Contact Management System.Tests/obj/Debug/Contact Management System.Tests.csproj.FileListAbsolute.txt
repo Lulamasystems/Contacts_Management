@@ -25,3 +25,31 @@ c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management S
 c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\obj\Debug\Contact Management System.Tests.csproj.CoreCompileInputs.cache
 c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\obj\Debug\Contact Management System.Tests.dll
 c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.Tests\obj\Debug\Contact Management System.Tests.pdb
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\Contact Management System.Tests.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\Contact Management System.Tests.pdb
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\Contact Management System.Web.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\Contact Management System.Web.pdb
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\Contact Management System.Web.dll.config
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\obj\Debug\Contact Management System.Tests.csprojResolveAssemblyReference.cache
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\obj\Debug\Contact Management System.Tests.csproj.CoreCompileInputs.cache
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\obj\Debug\Contact Management System.Tests.csproj.CopyComplete
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\obj\Debug\Contact Management System.Tests.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.Tests\obj\Debug\Contact Management System.Tests.pdb

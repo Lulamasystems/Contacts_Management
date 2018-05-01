@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\Smarimi\Source\Repos\Contact Management System.Web\Contact Management System.DAL\Models\Contacts_Management_Model.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.DAL\Models\Contacts_Management_Model.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

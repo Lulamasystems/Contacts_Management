@@ -4,3 +4,15 @@ c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management S
 c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.BL\obj\Debug\Contact Management System.BL.csproj.CoreCompileInputs.cache
 c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.BL\obj\Debug\Contact Management System.BL.dll
 c:\users\smarimi\Source\Repos\Contact Management System.Web\Contact Management System.BL\obj\Debug\Contact Management System.BL.pdb
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.BL\bin\Debug\Contact Management System.BL.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.BL\bin\Debug\Contact Management System.BL.pdb
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.BL\bin\Debug\Contact Management System.DAL.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.BL\bin\Debug\EntityFramework.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.BL\bin\Debug\Contact Management System.DAL.pdb
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.BL\bin\Debug\Contact Management System.DAL.dll.config
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.BL\bin\Debug\EntityFramework.xml
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.BL\obj\Debug\Contact Management System.BL.csprojResolveAssemblyReference.cache
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.BL\obj\Debug\Contact Management System.BL.csproj.CoreCompileInputs.cache
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.BL\obj\Debug\Contact Management System.BL.csproj.CopyComplete
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.BL\obj\Debug\Contact Management System.BL.dll
+C:\Users\tt\Desktop\1st\Contacts_Management\Contact Management System.BL\obj\Debug\Contact Management System.BL.pdb

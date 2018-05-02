@@ -1,10 +1,14 @@
 ﻿
-<script src="~/Scripts/jquery-1.10.2.js"></script>
-<script src="~/Scripts/bootstrap.min.js"></script>
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
 
 <div class="container">
     <h2>Contact List</h2>
-    
+
     <table class="table table-bordered table-hover">
         <thead>
             <tr>
@@ -57,7 +61,7 @@
                     html += '<td>' + item.CellNumber + '</td>';
                     html += '<td>' + item.Telephone + '</td>';
 
-                    html += '<td><a href="#" onclick="return getbyID(' + item.ContactID + ')">Edit</a> | <a href="#" onclick="Delete(' + item.ContactID + ')">Delete</a></td>';
+                    html += '<td><a href="#" onclick="GetContactById(' + item.ContactID + ')">Edit</a> | <a href="#" onclick="Delete(' + item.ContactID + ')">Delete</a></td>';
                     html += '</tr>';
                 });
                 $('.tbody').html(html);
@@ -71,7 +75,7 @@
 
 
     function Delete(id) {
-       
+
 
 
         $.ajax({
@@ -80,7 +84,7 @@
             contentType: "application/json",
             success: function () {
                 bootbox.alert("Proposal deleted successfully.");
-                ReloadGrid();
+
             },
             error: function () {
             }
@@ -89,4 +93,108 @@
     }
 
 
+
+
+    function GetContactById(id) {
+
+        $.ajax({
+            url: "/Contact/GetContactById/" + id,
+            typr: "GET",
+            contentType: "application/json;charset=UTF-8",
+            dataType: "json",
+            success: function (result) {
+                $('#ContactID').val(result.ContactID);
+                $('#Title').val(result.Title);
+                $('#Name').val(result.Name);
+                $('#Surname').val(result.Surname);
+                $('#Email').val(result.Email);
+                $('#Telephone').val(result.Telephone);
+                $('#CellNumber').val(result.CellNumber);
+
+                $('#myModal').modal('show');
+               
+            },
+            error: function (errormessage) {
+                alert(errormessage.responseText);
+            }
+        });
+        return false;
+    }
+
+
+    
+
+
+    //function for updating employee's record
+    function Update() {
+       
+        var contact = {
+            ContactID: $('#ContactID').val(),
+            Title: $('#Title').val(),
+            Name: $('#Name').val(),
+            Surname: $('#Surname').val(),
+            Email: $('#Email').val(),
+            Telephone: $('#Telephone').val(),
+            CellNumber: $('#CellNumber').val(),
+         
+        };
+        $.ajax({
+            url: "/Contact/Update",
+            data: JSON.stringify(contact),
+            type: "POST",
+            contentType: "application/json;charset=utf-8",
+            dataType: "json",
+            success: function (result) {
+                alert("Successfully updated");
+            },
+            error: function (errormessage) {
+                alert(errormessage.responseText);
+            }
+        });
+    }
 </script>
+
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Modal Header</h4>
+                </div>
+                <div class="modal-body">
+
+
+                    <form id="userData">
+                        ContactID :- <input type="text"  name="ContactID" id="ContactID" />
+
+                        Title :- <input type="text" name="Title" id="Title" />
+                        Name :- <input type="text" name="Name" id="Name" />
+
+                        Surname :- <input type="text" name="Surname" id="Surname" />
+                        CellNumber :- <input type="text" name="CellNumber" id="CellNumber" />
+
+                        Telephone:- <input type="text" name="Telephone" id="Telephone" />
+
+                        Email:- <input type="text" name="Email" id="Email" />
+
+                        <input type="button" id="btn" onclick="Update()" value="Update" />
+
+
+
+                    </form>
+
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+

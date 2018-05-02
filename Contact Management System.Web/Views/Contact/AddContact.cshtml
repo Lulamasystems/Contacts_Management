@@ -5,17 +5,7 @@
 
 <form id="formContact">
 
-    @*Title :- <input type="text" name="Title" id="Title" />
-        Name :- <input type="text" name="Name" id="Name" />
 
-        Surname :- <input type="text" name="Surname" id="Surname" />
-        CellNumber :- <input type="text" name="CellNumber" id="CellNumber" />
-
-        Telephone:- <input type="text" name="Telephone" id="Telephone" />
-
-        Email:- <input type="text" name="Email" id="email" />
-
-        <input type="button" id="btnSubmit" value="Submit"*@ />
 
    
         <h2>Contact List</h2>
@@ -45,7 +35,7 @@
                     </th>
                     <th>
                         <input type="button" id="btnSubmit" value="Submit" />
-                     
+                        location.reload();
                     </th>
                    
                 </tr>
@@ -93,14 +83,6 @@
             }).error(function (a, b, c) {
                 alert(b.responseText);
             });
-        
-
-
-        $.ajax("http://localhost:61816/Contact/ListContacts", function(data){
-    if (data.success == true)
-    setTimeout(function(){window.location = window.location}, 5000); 
-   
-
     });
 
 

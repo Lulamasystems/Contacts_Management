@@ -5,21 +5,70 @@
 
 <form id="formContact">
 
-    Title :- <input type="text" name="Title" id="Title" />
-    Name :- <input type="text" name="Name" id="Name" />
+    @*Title :- <input type="text" name="Title" id="Title" />
+        Name :- <input type="text" name="Name" id="Name" />
 
-    Surname :- <input type="text" name="Surname" id="Surname" />
-    CellNumber :- <input type="text" name="CellNumber" id="CellNumber" />
+        Surname :- <input type="text" name="Surname" id="Surname" />
+        CellNumber :- <input type="text" name="CellNumber" id="CellNumber" />
 
-    Telephone:- <input type="text" name="Telephone" id="Telephone" />
+        Telephone:- <input type="text" name="Telephone" id="Telephone" />
 
-    Email:- <input type="text" name="Email" id="email" />
+        Email:- <input type="text" name="Email" id="email" />
 
-    <input type="button" id="btnSubmit" value="Submit" />
+        <input type="button" id="btnSubmit" value="Submit"*@ />
 
+   
+        <h2>Contact List</h2>
+
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+
+                    <th>
+                        Title :- <input type="text" name="Title" id="Title" />
+                    </th>
+                    <th>
+                        Name :- <input type="text" name="Name" id="Name" />
+                    </th>
+                    <th>
+
+                        Surname :- <input type="text" name="Surname" id="Surname" />
+                    </th>
+                    <th>
+                        CellNumber :- <input type="text" name="CellNumber" id="CellNumber" />
+                    </th>
+                    <th>
+                        Telephone:- <input type="text" name="Telephone" id="Telephone" />
+                    </th>
+                    <th>
+                        Email:- <input type="text" name="Email" id="email" />
+                    </th>
+                    <th>
+                        <input type="button" id="btnSubmit" value="Submit" />
+                     
+                    </th>
+                   
+                </tr>
+            </thead>
+            <tbody class="tbody"></tbody>
+        </table>
+    
 
 
 </form>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -29,7 +78,7 @@
 
 
 
-    
+
 
     $("#btnSubmit").click(function () {
 
@@ -44,10 +93,18 @@
             }).error(function (a, b, c) {
                 alert(b.responseText);
             });
+        
+
+
+        $.ajax("http://localhost:61816/Contact/ListContacts", function(data){
+    if (data.success == true)
+    setTimeout(function(){window.location = window.location}, 5000); 
+   
+
     });
 
 
-    
+
 </script>
 
 
